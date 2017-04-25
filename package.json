@@ -1,0 +1,31 @@
+{
+  "name": "todo_list_naitik",
+  "version": "1.0.0",
+  "description": "Todo list of any work related reminder.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/tyaginaitik/todo-list-naitik.git)"
+  },
+  "keywords": [
+    "Naitik",
+    "Todo-list",
+    "github"
+  ],
+  "author": "Naitik Tyagi",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "body-parser": "^1.17.1",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.2",
+    "jquery": "^3.2.1",
+    "method-override": "^2.3.8",
+    "mongoose": "^4.9.4",
+    "morgan": "^1.8.1"
+  }
+}
